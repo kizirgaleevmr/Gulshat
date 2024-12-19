@@ -42,9 +42,11 @@ header {
 #carousel_f8c2 {
   height: 800px;
 }
-#carousel_4e92,
-#carousel_61a4 {
+#carousel_4e92 {
   padding-top: 80px;
+}
+#carousel_61a4 {
+  padding-top: 105px;
 }
 .u-section-1 .u-group-1 {
   width: 510px;
