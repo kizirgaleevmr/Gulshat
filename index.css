@@ -189,6 +189,9 @@ header {
 }
 
 @media (max-width: 575px) {
+  #carousel_6576 {
+    padding-top: 34px;
+  }
   .u-section-3 .u-text-3 {
     font-size: 32px;
   }
